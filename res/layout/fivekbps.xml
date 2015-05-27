@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ScrollView 
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/vector"
+        android:text="
+        
+\n3G Packages
+\nfor 512Kbps
+
+\n\n 1.Starter Pack
+\n   Subsrciber type: both(prepaid and postpaid)
+\n   Activation code:*500*59#/( 512 75MB to 5000)
+\n   Validty:5days
+\n   Remaining Volume Check:*500*60# 
+\n   Autorenewal Features:Yes
+\n   Amount:BDT 50(15% VAT)
+\n
+\n\n 2.New 3G Pack(1GB)
+\n   Subsrciber type: both(prepaid and postpaid)
+\n   Activation code:*500*57#/( 512 1GB to 5000)
+\n   Validty:30days
+\n   Remaining Volume Check:*500*60# 
+\n   Autorenewal Features:Yes
+\n   Amount:BDT 300(15% VAT)
+\n
+\n\n  3.Standard Pack(2GB)
+\n    Subsrciber type: both(prepaid and postpaid)
+\n    Activation code:*500*56#/( 512 2GB to 5000)
+\n    Validty:30days
+\n    Remaining Volume Check:*500*60# 
+\n    Autorenewal Features:Yes
+\n    Amount:BDT 400(15% VAT)
+\n
+\n\n  4.Smart Pack(1.5GB ,600 minutes voice call (GP-GP),600 SMS(GP-GP) and 600 MMS )
+\n    Subsrciber type: both(prepaid and postpaid)
+\n    Activation code:*500*54#/( 512 SPH to 5000)
+\n    Validty:30days
+\n    Remaining Volume Check:*500*60# 
+\n    Autorenewal Features:Yes
+\n    Amount:BDT 800(15% VAT)
+\n
+\n\n  5.Heavy use Pack(8GB)
+\n    Subsrciber type: both(prepaid and postpaid)
+\n    Activation code:*500*52#/( 512 U to 5000)
+\n    Validty:30days
+\n    Remaining Volume Check:*500*60# 
+\n    Autorenewal Features:Yes
+\n    Amount:BDT 950(15% VAT) " />
+
+</ScrollView>>
+</LinearLayout>

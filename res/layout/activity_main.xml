@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/vector"
+    tools:context=".MainActivity" >
+
+   
+
+    <Button
+        android:id="@+id/aboutmebutton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="18dp"
+        android:text="About Me" />
+
+    <Button
+        android:id="@+id/gpButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="21dp"
+        android:text="GP" />
+
+    <Button
+        android:id="@+id/BanglalinkButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/gpButton"
+        android:layout_marginTop="40dp"
+        android:text="Banglalink" />
+
+    <Button
+        android:id="@+id/robiButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:text="Robi" />
+
+    <Button
+        android:id="@+id/airtelbutton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/aboutmebutton"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="39dp"
+        android:text="Airtel" />
+
+</RelativeLayout>

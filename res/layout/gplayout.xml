@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/vector"
+    android:orientation="vertical" >
+   
+<ScrollView 
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" For all Internet Packages :
+
+\n For 2G for Handset Browsing
+
+\n\n 1.Package name: New Pay as you go
+\n   Subsrciber type: both postpaid and prepaid
+\n   Activation code:*500*0#/( PAYG sms to 5000)
+\n   Validity Check:*500*61# 
+\n   Autorenewal Features:Yes
+\n   Amount:BDT 0.01/KB
+\n
+\n\n 2.Package name:Pay as you go
+\n   Subsrciber type: both postpaid and prepaid
+\n   Activation code:*500*0#/( PAYG sms to 5000)
+\n   Validity Check:*500*61# 
+\n   Autorenewal Features:Yes
+\n   Amount:BDT 0.02/KB
+\n
+\n\n 3.Package name:Minipack 2MB with 2MMS
+\n   Subsrciber type: both postpaid and prepaid
+\n   Activation code:*500*11*1#/( 2MB  to 5000)
+\n   Validity : 2days 
+\n   Remaining Volume Check:*500*60#(View to 5000)
+\n   Autorenewal Features:Yes
+\n   Amount:BDT 2.5(+15% VAT)
+\n
+\n\n 4.Package name:Minipack 9MB with 3MMS
+\n   Subsrciber type: both postpaid and prepaid
+\n   Activation code:*500*10*1#/( 9MB to 5000)
+\n   Validity : 3days 
+\n   Remaining Volume Check:*500*60#(View to 5000)
+\n   Autorenewal Features:Yes
+\n   Amount:BDT 9(+15% VAT)
+\n
+\n\n 5.Package name:Minipack 25MB 
+\n   Subsrciber type: both postpaid and prepaid
+\n   Activation code:*500*7*1#/( 25MB sms to 5000)
+\n   Validity : 10days 
+\n   Remaining Volume Check:*500*60#(View to 5000)
+\n   Autorenewal Features:Yes
+\n   Amount:BDT 20(+15% VAT)
+\n
+\n\n 6.Package name:Minipack 150MB 
+\n   Subsrciber type: both postpaid and prepaid
+\n   Activation code:*500*9*1#/( 99MB sms to 5000)
+\n   Validity : 30days 
+\n   Remaining Volume Check:*500*60#(View to 5000)
+\n   Autorenewal Features:Yes
+\n   Amount:BDT 99(+15% VAT)
+\n
+\n\n 7.Package name:P6(1GB)
+\n   Subsrciber type: both postpaid and prepaid
+\n   Activation code:*500*6*1#/( P6 sms to 5000)
+\n   Validity : 30days 
+\n   Remaining Volume Check:*500*60#(View to 5000)
+\n   Autorenewal Features:Yes
+\n   Amount:BDT 300(+15% VAT)
+\n\n
+
+\n\n for Laptop/PC Browsing
+
+\n   1.Package name:P2 (Heavy Internet Browsing)
+\n   Subsrciber type: both postpaid and prepaid
+\n   Activation code:*500*2*1#/( P2 to 5000)
+\n   Validty:30days
+\n   Remaining Volume Check:*500*60# 
+\n   Autorenewal Features:Yes
+\n   Amount:BDT 850 (+15% VAT)
+\n
+\n\n 2.Package name:P3 ( Night Heavy Internet Browsing (12:00AM to 10:00AM))
+\n   Subsrciber type: both postpaid and prepaid
+\n   Activation code:*500*3*1#/( P3 to 5000)
+\n   Validty:30days
+\n   Remaining Volume Check:*500*60# 
+\n   Autorenewal Features:Yes
+\n   Amount:BDT 250 (+15% VAT)
+\n
+\n\n 3.Package name:Daily 150MB
+\n   Subsrciber type: prepaid
+\n   Activation code:*500*4*1#/( P4 to 5000)
+\n   Validty:1day
+\n   Remaining Volume Check:*500*60# 
+\n   Autorenewal Features:Yes
+\n   Amount:BDT 60 (15% VAT)
+\n
+\n\n 4.Package name:P3
+\n   Subsrciber type: prepaid
+\n   Activation code:*500*5*1#/( P5 to 5000)
+\n   Validty:30days
+\n   Remaining Volume Check:*500*60# 
+\n   Autorenewal Features:Yes
+\n   Amount:BDT 700 (15% VAT)"
+/>
+</ScrollView>
+</LinearLayout>
+ 

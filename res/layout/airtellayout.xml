@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+<ScrollView 
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/vector"
+        android:text="2G Internet Packages for prepaid
+        
+ \n\nRecharege Based Packages
+ \n  1.17MB
+ \n  Validty:7days
+ \n  Amount:BDT 17(exactly)
+ \n
+ \n  2.27MB
+ \n  Validty:7days
+ \n  Amount:BDT 27(exactly)
+ \n
+ \n  3.25MB
+ \n  Activation code:*121*7#
+ \n  Validty:7days
+ \n  Amount:BDT 25 (exactly)
+ \n
+ \n  4.90MB
+ \n  Validty:30days
+ \n  Amount:BDT 98(exactly)
+ \n
+ \n  5.300MB
+ \n  Validty:30days
+ \n  Amount:BDT 198(exactly)
+ \n
+ \n  6.2GB
+ \n  Validty:30days
+ \n  Amount:BDT 398(exactly)
+ 
+ \n\n Activation Based Packages   
+ 
+ \n 1.1MB+3MMS
+ \n  Activation code:*321*85#(MB1 to 5000)
+ \n  Validty:1day
+ \n  Remaining Volume Check:*778*4# 
+ \n  Amount:BDT 2(+VAT 15%)
+ \n
+ \n\n 2.3MB+5MMS
+ \n   Activation code:*321*86#(MB3 sms to 5000)
+ \n   Validty:2days
+ \n   Remaining Volume Check:*778*4# 
+ \n   Amount:BDT 5(+VAT 15%)
+ \n
+\n\n 3.10MB
+ \n  Activation code:*321*83#(P9 sms to 5000)
+ \n  Validty:2days
+ \n  Remaining Volume Check:*778*4# 
+ \n  Amount:BDT 10(+VAT 15%)
+ \n
+ \n\n 4.150MB
+ \n   Activation code:*321*84#(P4 sms to 5000)
+ \n   Validty:2days
+ \n   Remaining Volume Check:*778*4# 
+ \n   Amount:BDT 50(+VAT 15%)
+ \n\n
+   
+\n 5.20MB
+ \n  Activation code:*321*77#(WPL sms to 5000)
+ \n  Validty:7days
+ \n  Remaining Volume Check:*778*4# 
+ \n  Amount:BDT 20(+VAT 15%)
+ \n\n
+ 
+\n  6.55MB
+ \n  Activation code:*321*76#(WPM sms to 5000)
+ \n  Validty:7days
+ \n  Remaining Volume Check:*778*4# 
+ \n  Amount:BDT 50(+VAT 15%)
+ \n\n
+
+ \n7.20MB
+ \n  Activation code:*321*75#(FPL sms to 5000)
+ \n  Validty:15days
+ \n  Remaining Volume Check:*778*4# 
+ \n  Amount:BDT 30(+VAT 15%)
+ \n\n
+ 
+ 
+ \n 8.120MB
+ \n  Activation code:*321*74#(FPM sms to 5000)
+ \n  Validty:15days
+ \n  Remaining Volume Check:*778*4# 
+ \n  Amount:BDT 99(+VAT 15%)
+ \n\n
+ 
+ 
+ \n 9.400MB
+ \n  Activation code:*321*87#(FPH sms to 5000)
+ \n  Validty:15days
+ \n  Remaining Volume Check:*778*4# 
+ \n  Amount:BDT 50(+VAT 15%)
+ \n\n
+ 
+ 
+ \n 10.1GB
+ \n  Activation code:*321*73#(P6 sms to 5000)
+ \n  Validty:30days
+ \n  Remaining Volume Check:*778*4# 
+ \n  Amount:BDT 275(+VAT 15%)
+ \n\n
+ 
+ 
+\n 11.1GB(Night 1AM-9AM)
+ \n  Activation code:*321*89#(NPH sms to 5000)
+ \n  Validty:30days
+ \n  Remaining Volume Check:*778*4# 
+ \n  Amount:BDT 150(+VAT 15%)
+ \n\n
+     
+ 
+\n 12.3GB
+ \n  Activation code:*321*72#(P7 sms to 5000)
+ \n  Validty:30days
+ \n  Remaining Volume Check:*778*4# 
+ \n  Amount:BDT 450(+VAT 15%)
+ \n\n
+ 
+\n 13.5GB
+ \n  Activation code:*321*71#(P5 sms to 5000)
+ \n  Validty:30days
+ \n  Remaining Volume Check:*778*4# 
+ \n  Amount:BDT 650(+VAT 15%)
+ \n\n
+        
+ \n 14.Pay as you go
+ \n Activation code:P1 sms to 5000
+ \n Amount:BDT 0.0173/KB     
+ \n\n
+  
+  \n\n For Postpaid
+   
+ \n\n 1.55MB
+ \n  Activation code:*121*7*2*2#(WPM sms to 5000)
+ \n  Validty:7days
+ \n  Remaining Volume Check:(GPRS to 5000) 
+ \n  Amount:BDT 50(+VAT 15%) 
+ \n
+ \n\n 2.120MB
+ \n   Activation code:*121*7*2*1#(FPM sms to 5000)
+ \n   Validty:15days
+ \n   Remaining Volume Check:(GPRS to 5000) 
+ \n   Amount:BDT 100(+VAT 15%)
+ \n        
+ \n\n 3.1GB
+ \n   Activation code:(P8 sms to 5000)
+ \n   Validty:30days
+ \n   Remaining Volume Check:(GPRS to 5000) 
+ \n   Amount:BDT 300(+VAT 15%)
+ \n
+ \n\n 4.1GB(Night 12AM-8AM)
+ \n   Activation code:(P3 sms to 5000)
+ \n   Validty:30days
+ \n   Remaining Volume Check:(GPRS to 5000) 
+ \n   Amount:BDT 275(+VAT 15%)
+ \n   
+\n\n 5.3GB
+ \n  Activation code:(P2 sms to 5000)
+ \n  Validty:30days
+ \n  Remaining Volume Check:(GPRS to 5000) 
+ \n  Amount:BDT 750(+VAT 15%)
+ \n
+ \n\n 6.Pay as you go
+ \n   Activation code:P1 sms to 5000
+ \n   Amount:BDT 0.0173/KB(+VAT 15%) " />
+
+    </ScrollView>
+</LinearLayout>

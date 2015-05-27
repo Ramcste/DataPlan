@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+<ScrollView 
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content" >
+    <TextView
+        android:id="@+id/banglalinkTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="
+        
+        \n\n Internet Packages   
+       \n Daily Packages
+        \n 1.Package name:P4(200MB)
+         \n Package volume:200MB
+         \n Activation code:(P4 sms to 3343)
+         \n Amount:BDT 50(+15% VAT)
+        
+     
+         \n\n 2.Package name:P9(5MB)
+         \n   Package volume:5MB
+         \n   Activation code:(P9 sms to 3343)
+         \n   Amount:BDT 8(+15% VAT)
+        
+        
+        \n\n 3.Package name:P10(2MB)
+         \n  Package volume:2MB
+         \n  Activation code:(P10 sms to 3343)
+        \n   Amount:BDT 4(+15% VAT)
+        
+
+        \n\n  4.Package name:P14(10MB)
+         \n   Package volume:10MB
+         \n   Activation code:(P14 sms to 3343)
+         \n   Amount:BDT 10(+15% VAT)
+         
+         \n\n 5.Package name:P1(Pay as you go)
+           \n Activation code:(P1 sms to 3343)
+           \n Amount:0.02(+15% VAT) 
+        
+        \n\n Weekly Packages
+        
+       \n\n 1.Package name:P7(20MB)
+         \n   Package volume:20MB
+         \n   Activation code:(P7 sms to 3343)
+         \n   Amount:BDT 20(+15% VAT)
+         
+         \n\n 2.Package name:P8(55MB)
+         \n   Package volume:55MB
+         \n   Activation code:(P8 sms to 3343)
+         \n   Amount:BDT 50(+15% VAT)
+         
+         \n\n 3.Package name:P12(Unlimited 5AM-10AM)
+         \n   Package volume:Unlimited
+         \n   Activation code:(P12 sms to 3343)
+         \n   Amount:BDT 70(+15% VAT)
+         
+         \n\n Monthly Packages
+        \n\n 1.Package name:P2(Unlimited)
+         \n   Package volume:Unlimited
+         \n   Activation code:(P2 sms to 3343)
+         \n   Amount:BDT 650(+15% VAT)
+         
+         \n\n 2.Package name:P3(Unlimited 12AM-8AM)
+         \n   Package volume:Unlimited
+         \n   Activation code:(P3 sms to 3343)
+         \n   Amount:BDT 300(+15% VAT)
+         
+         \n\n 3.Package name:P5(100MB)
+         \n   Package volume:100MB
+         \n   Activation code:(P5 sms to 3343)
+         \n   Amount:BDT 100(+15% VAT)
+         
+         \n\n 4.Package name:P7(20MB)
+         \n   Package volume:20MB
+         \n   Activation code:(P7 sms to 3343)
+         \n   Amount:BDT 20(+15% VAT)
+         
+         \n\n 5.Package name:P6(1GB)
+         \n   Package volume:1GB
+         \n   Activation code:(P6 sms to 3343)
+         \n   Amount:BDT 275(+15% VAT)
+         
+        
+        " 
+       
+   />
+        
+   
+    </ScrollView>
+       
+
+</LinearLayout>

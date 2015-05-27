@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="airtel">Airtel</string>
+    <string name="_edge_subscription_status_and_remaining_volume_for_all_packages_500_60_ninternet_usage_500_61_nedge_deactivation_500_40_nactivate_auto_renew_feature_500_41_ndeactivate_auto_renew_feature_500_42_nget_popular_web_links_500_00_nopera_link_500_30_nfacebook_app_link_500_31_nget_handset_settings_500_50_">" Edge Subscription Status and Remaining Volume for All packages: *500*60#\n\\nInternet Usage : *500*61#\n\\nEDGE Deactivation: *500*40#\n\\nActivate Auto Renew Feature: *500*41#\n\\nDeactivate Auto renew Feature: *500*42#\n\\nGet Popular Web Links: *500*00#\n\\nOpera Link: *500*30#\n\\nFacebook App Link: *500*31#\n\\nGet Handset Settings *500*50#"</string>
+
+</resources>
